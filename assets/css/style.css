@@ -79,7 +79,7 @@ a{color:inherit;text-decoration:none}
 .hero.has-img{
   background:
     radial-gradient(600px 280px at 10% 10%, var(--accentGlow), transparent 60%),
-    linear-gradient(120deg, rgba(11,15,25,.92), rgba(11,15,25,.55)),
+    linear-gradient(120deg, rgba(11,15,25,.55), rgba(11,15,25,.25)),
     url("../img/hero.jpg");
   background-size:cover;
   background-position:center;
